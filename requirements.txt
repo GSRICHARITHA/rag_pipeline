@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-docx
+PyMuPDF
+openai
+tiktoken
+numpy
+gunicorn
+python-dotenv
